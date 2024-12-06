@@ -93,48 +93,24 @@ You can view the live preview of the project [here](https://code-sync-live.verce
 
 -   **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
 
-## 🤝 Contribute
-
-We welcome contributions to make Code Sync even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## 🌟 Support Us
-
-If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development. We appreciate your support!
-
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 🌟 Appreciation for Resources
-
-Special thanks to EMKC for providing the Piston API, enabling code execution. For more information, visit the following links:
-
--   [Piston Repository](https://github.com/engineer-man/piston)
--   [Piston Docs](https://piston.readthedocs.io/en/latest/api-v2/)
-
-Also, huge gratitude to Tldraw contributors for their amazing library. For more information about Tldraw, please visit:
-
--   [Tldraw Repository](https://github.com/tldraw/tldraw)
--   [Tldraw Documentation](https://tldraw.dev/)
-
 ## ✍️ About Developer
 
 <table>
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
+        <img src="https://github.com/harsh-0409.png" width="120px;" alt="Sahil Atahar"/>
         <br />
-        <b>Sahil Atahar</b>
+        <b>Harsh Raj</b>
       </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/sahilatahar">
+            <a href="https://github.com/harsh-0409">
             <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <br/>
-        <a href="https://linkedin.com/in/sahilatahar">
+        <a href="https://www.linkedin.com/in/harsh-raj-81273a271/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         </td>
