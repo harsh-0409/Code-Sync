@@ -1,5 +1,6 @@
 import illustration from "@/assets/illustration.svg"
 import FormComponent from "@/components/forms/FormComponent"
+import Chatbot from "@/components/Chatbot";
 // import Footer from "@/components/common/Footer";
 
 function HomePage() {
@@ -17,6 +18,7 @@ function HomePage() {
                     <FormComponent />
                 </div>
             </div>
+            <Chatbot />
             {/* <Footer /> */}
         </div>
     )

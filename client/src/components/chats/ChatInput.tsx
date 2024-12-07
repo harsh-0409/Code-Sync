@@ -45,7 +45,7 @@ function ChatInput() {
                 ref={inputRef}
             />
             <button
-                className="flex items-center justify-center rounded-r-md  bg-primary p-2 text-black"
+                className="flex items-center justify-center rounded-r-md bg-primary p-2 text-black"
                 type="submit"
             >
                 <LuSendHorizonal size={24} />
